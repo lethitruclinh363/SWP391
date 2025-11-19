@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="E:\Ki_5_SU25\SWP391\Project_GITHUB\Diem\G6_Project\target\G6_Project-1.0-SNAPSHOT" path="/G6_Project">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxIdle="10" maxTotal="20" maxWaitMillis="-1" name="jdbc/G6_ProjectDB" password="123456" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=G6_Assigment;encrypt=true;trustServerCertificate=true;" username="sa"/>
+</Context>
